@@ -1,1 +1,1 @@
-# konferencja
+# PsychoHealth - Studencka Konferencja Psychologiczna
