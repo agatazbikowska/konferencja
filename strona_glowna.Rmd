@@ -8,11 +8,11 @@ output: html_document
 
 
 
-## I Konferencja Psychologiczna Gdańskiego Uniwersytetu Medycznego
+## PsychoHealth - Studencka Konferencja Psychologiczna
 
-#### SKN Psychologii Gdańskiego Uniwersytetu Medycznego ma przyjemność zaprosić Państwa I Konferencję Psychologiczną Gdańskiego Uniwersytetu Medycznego.
+#### SKN Psychologii Gdańskiego Uniwersytetu Medycznego ma przyjemność zaprosić Państwa "PsychoHealth"
 
-#### Jest to wydarzenie adresowane do studentów psychologii, psychologii zdrowia oraz pozostałych osób zainteresowanych tą tematyką.
+#### Jest to wydarzenie adresowane do studentów psychologii, psychologii zdrowia oraz pozostałych osób zainteresowanych tematyką.
 
 #### Konferencja odbędzie się **29 maja 2020** roku w Atheneum Gedanense Novum w Gdańskim Uniwersytecie Medycznym. Organizatorami konferencji są:
 #### - SKN Psychologii Gdańskiego Uniwersytetu Medycznego
