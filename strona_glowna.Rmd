@@ -3,11 +3,9 @@ title: "strona_glowna"
 author: "Agata Żbikowska"
 date: "3 marca 2020"
 output: html_document
+    theme: readable 
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 
 ## I Konferencja Psychologiczna Gdańskiego Uniwersytetu Medycznego
