@@ -1,0 +1,22 @@
+---
+title: "strona_glowna"
+author: "Agata Żbikowska"
+date: "3 marca 2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+## I Konferencja Psychologiczna Gdańskiego Uniwersytetu Medycznego
+
+#### SKN Psychologii Gdańskiego Uniwersytetu Medycznego ma przyjemność zaprosić Państwa I Konferencję Psychologiczną Gdańskiego Uniwersytetu Medycznego.
+
+#### Jest to wydarzenie adresowane do studentów psychologii, psychologii zdrowia oraz pozostałych osób zainteresowanych tą tematyką.
+
+#### Konferencja odbędzie się **29 maja 2020** roku w Atheneum Gedanense Novum w Gdańskim Uniwersytecie Medycznym. Organizatorami konferencji są:
+#### - SKN Psychologii Gdańskiego Uniwersytetu Medycznego
+#### - Uczelniany Samorząd Studencki GUMed
+
