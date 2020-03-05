@@ -1,20 +1,31 @@
 ---
-title: "strona_glowna"
-author: "Agata Żbikowska"
-date: "3 marca 2020"
-output: html_document
-    theme: readable 
+output:
+  rmarkdown::html_document:
+    theme: readable
 ---
 
-
-
 ## PsychoHealth - Studencka Konferencja Psychologiczna
+ 
+ 
+SKN Psychologii Gdańskiego Uniwersytetu Medycznego ma przyjemność zaprosić Państwa "PsychoHealth"
 
-#### SKN Psychologii Gdańskiego Uniwersytetu Medycznego ma przyjemność zaprosić Państwa "PsychoHealth"
+Jest to wydarzenie adresowane do studentów psychologii, psychologii zdrowia oraz  pozostałych osób zainteresowanych tematyką. Podczas konferencji możliwe będzie zaprezentowanie prac w formie wystąpienia oraz posteru. Najlepsze prace zostaną nagrodzone. 
 
-#### Jest to wydarzenie adresowane do studentów psychologii, psychologii zdrowia oraz pozostałych osób zainteresowanych tematyką.
 
-#### Konferencja odbędzie się **29 maja 2020** roku w Atheneum Gedanense Novum w Gdańskim Uniwersytecie Medycznym. Organizatorami konferencji są:
-#### - SKN Psychologii Gdańskiego Uniwersytetu Medycznego
-#### - Uczelniany Samorząd Studencki GUMed
+Konferencja odbędzie się **29 maja 2020** roku w Atheneum Gedanense Novum w Gdańskim Uniwersytecie Medycznym.
+Organizatorami konferencji są: 
+
+- SKN Psychologii Gdańskiego Uniwersytetu Medycznego
+- Uczelniany Samorząd Studencki GUMed
+
+
+### Zgłoszenia
+
+Termin nadsyłania abstraktów : 14 marca 2020 roku 
+
+Formularz zgłoszeniowy :
+
+Udział w konferencji jest bezpłatny.
+
+W razie jakochkolwiek pytań prosimy o kontakt poprzez naszego Facebooka bądź nasz adres e-mailowy skn.psychologii@gumed.edu.pl
 
